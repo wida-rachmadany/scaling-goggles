@@ -1,4 +1,4 @@
 # scaling-goggles
 
 
-/svg from www.freepik.com
+.svg file from www.freepik.com
